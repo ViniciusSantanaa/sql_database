@@ -7,11 +7,11 @@ INSERT INTO tb_endereco (
     pais,
     complemento
 ) VALUES (
-    'AV HILARIO PEREIRA',
-    492,
-    '06010170',
-    'CENTRO',
-    'OSASCO',
+    'AV PAULISTA',
+    1024,
+    '0130800',
+    'BELA VISTA',
+    'SAO PAULO',
     'BRASIL',
-    'CASA DOS GEMEOS'
+    'FIAP'
 );
